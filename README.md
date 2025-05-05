@@ -1,0 +1,1 @@
+# Adaptive-Kernel-Based-Approximation-for-Efficient-LLM-Reranking-in-RAG-Pipelines
